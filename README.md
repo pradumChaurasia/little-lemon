@@ -1,3 +1,8 @@
+#About the project:
+A website built with ReactJS,Semantic HTML, meta tags, Open Graph Protocol to create a modern structure for the web app.
+Used CSS grid and other CSS styling to set up a responsive, clear and inviting website.
+Integrated with form Validation and unit testing.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
